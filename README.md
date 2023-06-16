@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hi welcome to mi profile👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=janneison.janneison)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -58,7 +58,7 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=janneison&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=janneison&theme=nord&column=7)](https://github.com/janneison/github-profile-trophy)
 
 
 <!-- ## 👨‍💻 This week, I spent my time on:
