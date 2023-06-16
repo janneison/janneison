@@ -26,9 +26,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://janneison.github.io/
-- Notes of AWS Solution Architecture - Associate: https://janneison.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://janneison.github.io/leetcode/
+- Personal website and blog: [https://janneison.github.io/](https://about.me/janneison)
 
 
 ## 🔧 Technologies & Tools
